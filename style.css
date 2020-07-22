@@ -1,0 +1,9 @@
+body{
+    /* background-color: #ffff00; */
+    background-image: url(./img/gifts.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #00ff55;
+    
+}
